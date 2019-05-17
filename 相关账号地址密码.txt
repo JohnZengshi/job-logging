@@ -37,6 +37,11 @@ AppID wxf0b833c0aa297da9
 AppSecret 93785b74f09b91c592bc09553ccb6e98
 值得看云店 micyi_app@163.com liuchang880321
 
+回响开放平台
+账号：wxopen@echodata.cn
+密码：Huixiang@2018!
+
+万佳安智享家公众号账号密码 zxjfuwu@echodata.cn Zhixiangjia2018
 
 api文档 ：http://doc.imliuchang.cn/web/#/2?page_id=28     http://doc.imliuchang.cn/web/#/6
 原型：https://whku69.axshare.com/#g=1&p=%E4%B8%BB%E8%A6%81%E6%B5%81%E7%A8%8B%E5%9B%BE
