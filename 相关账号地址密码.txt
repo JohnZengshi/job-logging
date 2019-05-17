@@ -73,3 +73,6 @@ http://h5.imliuchang.cn/?type=manufacturershare
 106.75.129.131 port:36000
 bi  BI_API-131wc21
 目录:/home/wwwroot/bi.echodata.cn （测试）
+
+客户端用户（foxmail/outlook或手机客户端等）需要增加客户端专用密码，还可以在“微信绑定”中新增 7Wp6MQRTjnGrtejA
+
