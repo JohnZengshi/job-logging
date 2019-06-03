@@ -46,6 +46,7 @@ AppSecret 93785b74f09b91c592bc09553ccb6e98
 api文档 ：http://doc.imliuchang.cn/web/#/2?page_id=28     http://doc.imliuchang.cn/web/#/6
 原型：https://whku69.axshare.com/#g=1&p=%E4%B8%BB%E8%A6%81%E6%B5%81%E7%A8%8B%E5%9B%BE
 智享家H5的原型   https://mz7rp1.axshare.com    接口  http://doc.imliuchang.cn/web/#/8?page_id=112
+智享家H5的原型（零售商）https://org.modao.cc/app/d32a317497882f731395e7a7ca7936f5d6798a5e#screen=seb009bcb4f7a16425abbf4
 bi原型 https://v6o21m.axshare.com 接口 https://documenter.getpostman.com/view/4182381/RztkPps5#f1f3bfea-ad5c-4a80-b6f6-4ec551b326a3  原BI系统：http://bitest.imliuchang.cn/   admin   bihuixiang@2018
 禅道：http://nb.zhidekan.tv    zengjinghui   zengjinghui123456
 
