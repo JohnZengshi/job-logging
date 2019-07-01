@@ -62,18 +62,34 @@ http://www.imliuchang.cn/ 品牌官网
 
 http://m.imliuchang.cn/ H5
 
-ftp账号密码主机    sftp://smarlife:ismarlife-2201@106.75.166.52:36000
-/home/wwwroot/www.smarlife.cn/   官网目录
-/home/wwwroot/m.smarlife.cn/     
-/home/wwwroot/h5.imliuchang.cn/   智享家H5目录
-/home/wwwroot/biweb.micyi.com    bi目录
+
+
+ftp账号密码主机
+（智享家，bi）测试
+连接方式 sftp
+用户名 root
+密码 Chany@2017!
+ip地址 120.24.97.163
+端口号 22    
+
+（智享家）正式
+连接方式 sftp
+用户名 smarlife
+密码 ismarlife-2201@
+ip地址 106.75.166.52
+端口号 36000    
+
+（bi）正式
+连接方式 sftp
+用户名 bi
+密码 BI_API-131wc21
+ip地址 106.75.129.131
+端口号 36000
+
+/home/wwwroot/www.smarlife.cn/   官网目录（正式）
+/home/wwwroot/m.smarlife.cn/     智享家H5（正式）
+/home/wwwroot/h5.imliuchang.cn/   智享家H5（测试）
+/home/wwwroot/bi.echodata.cn （正式）
+/home/wwwroot/biweb.micyi.com    bi目录（测试）
 
 http://h5.imliuchang.cn/?type=manufacturershare
-
-
-106.75.129.131 port:36000
-bi  BI_API-131wc21
-目录:/home/wwwroot/bi.echodata.cn （测试）
-
-客户端用户（foxmail/outlook或手机客户端等）需要增加客户端专用密码，还可以在“微信绑定”中新增 7Wp6MQRTjnGrtejA
-
